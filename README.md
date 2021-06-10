@@ -6,7 +6,7 @@ This is a bare-bones Python package to create programs that listen and speak, or
 
 **Prerequisites**
 
-Requirements to use the library
+Requirements to use the package
 
 - [Python 3.6](https://www.python.org/downloads/release/python-360/)
 
